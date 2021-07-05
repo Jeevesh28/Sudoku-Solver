@@ -1,7 +1,7 @@
 # Sudoku-Solver :1234:
 Sudoku is a logic based combinatorial number placement puzzle. The puzzle’s goal is to fill a 9x9 grid such that each of the nine blocks (3x3 grids) has to contain all the digits 1-9 and each number can only appear once in a row, column or box. [Sudoku Rules](https://www.sudokukingdom.com/rules.php)
 
-This program serves as a way to calculate the solution to any 9x9 sudoku puzzle via webcam. It identifies the puzzle through the webcam, processes it using OpenCV, runs against a neural network trained on MNIST digits dataset to predict the digits, and runs a backtracking algorithm to determine the solution.
+This program serves as a way to calculate the solution to any 9x9 sudoku puzzle via webcam. It identifies the puzzle through the webcam, processes it using **OpenCV**, runs against a neural network trained on **MNIST digits dataset** to predict the digits, and runs a **backtracking algorithm** to determine the solution.
 
 ## Instructions:🎮
 
