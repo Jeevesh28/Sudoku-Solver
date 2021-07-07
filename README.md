@@ -13,7 +13,6 @@ This program serves as a way to calculate the solution to any 9x9 sudoku puzzle 
 <li> After capturing it process the image and detect number written on the grid. For this it uses pre-trained model from model folder 'Models/digitRecognisor.h5' present at project directory (or you can train custom one using 'Models/kerasModel.h5')</li>
 <li> After that it uses Backtracking Algorithm to predict the grid from 'backtrackingAlgo.py' file</li>
 </ol>
-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **File:** backtrackingAlgo.py
 
